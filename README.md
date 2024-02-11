@@ -51,7 +51,9 @@ Following Screenshot showing the game running using VS Code Software
 
 Contributions to this Tic Tac Toe game project are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
+## License
 
+This project is licensed under the [LICENSE](MIT License).
 
 Enjoy playing Tic Tac Toe with your friends using this simple Java implementation! If you have any questions or feedback, don't hesitate to reach out. Thank you for your interest in this project!
 
