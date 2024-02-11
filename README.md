@@ -22,7 +22,8 @@ Tic Tac Toe is a two-player game where players take turns marking spaces in a 3x
 
 ## Screenshots
 
-*(Include screenshots here if available)*
+![Game Screenshot_1](https://github.com/pankajaguruge/tictactoe-game/blob/main/screenshots/1.png)
+
 
 ## Requirements
 
