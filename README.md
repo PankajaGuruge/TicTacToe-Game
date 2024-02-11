@@ -21,9 +21,14 @@ Tic Tac Toe is a two-player game where players take turns marking spaces in a 3x
 4. Follow the on-screen instructions to play the game.
 
 ## Screenshots
+Following Screenshots showing the Code running using command promt
 
-![Game Screenshot_1](https://github.com/pankajaguruge/tictactoe-game/blob/main/screenshots/1.png)
+![Game Screenshot_1](https://github.com/pankajaguruge/tictactoe-game/blob/main/ScreenShots/Game_SS_1.png)
+![Game Screenshot_1](https://github.com/pankajaguruge/tictactoe-game/blob/main/ScreenShots/Game_SS_2.png)
 
+Following Screenshot showing the game running using VS Code Software
+
+![Game Screenshot_1](https://github.com/pankajaguruge/tictactoe-game/blob/main/ScreenShots/VSCode_SS.png)
 
 ## Requirements
 
