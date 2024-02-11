@@ -32,4 +32,4 @@ Tic Tac Toe is a two-player game where players take turns marking spaces in a 3x
 
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/pankajaguruge/tic-tac-toe-java.git
+   git clone https://github.com/pankajaguruge/tictactoe.git
